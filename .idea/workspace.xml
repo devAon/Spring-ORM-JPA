@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeddb779-926e-4a5e-a488-5f85eb38fdd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa-spring-maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-spring-maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\gitRepository\jpa-spring-maven\src\main\java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\develop\gitRepository\jpa-spring-maven\src\main\java" />
     </key>
@@ -85,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592293197766</updated>
       <workItem from="1592293200603" duration="159000" />
-      <workItem from="1592294082172" duration="238000" />
+      <workItem from="1592294082172" duration="617000" />
     </task>
     <servers />
   </component>
